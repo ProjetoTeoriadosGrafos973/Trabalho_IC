@@ -4,7 +4,7 @@
 
 - **Nome do projeto:** O Custo Ambiental da Ineficiência Algorítmica: Relação entre Complexidade, Energia e Emissões de Carbono
 - **Integrantes do grupo:** Enrico Ricardo de Souza Prado, Gabriel Andrade de Faria, Gabriel Santos da Silva, Gabrielle dos Santos Carmo, Gustavo de Faria, Maria Beatriz Santos Carvalho
-- **Turma:** Ciência da Computação / Computabilidade e Complexidade de Algoritmos
+- **Turma:** Ciência da Computação 6° Semestre / Computabilidade e Complexidade de Algoritmos
 - **Link do repositório:** https://github.com/ProjetoTeoriadosGrafos973/Trabalho_IC
 - **Branch principal utilizada:** `main`
 
