@@ -40,6 +40,15 @@ Documento referente ao planejamento, execução das buscas, triagem e seleção 
 - Zotero
 - Formato de exportação: BibTeX
 
+## Etapa (c) — Objetivo Geral e Objetivos Específicos
+
+Documento referente à definição do objetivo geral, assuntos da pesquisa, estrutura básica do artigo e classificação dos objetivos específicos.
+
+### Arquivo da etapa
+
+- [c_objetivo_geral_e_especifico.md](c_objetivo_geral_e_especifico.md)
+
+
 ## Integrantes
 
 | Integrante | Participação |
