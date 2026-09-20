@@ -1,22 +1,26 @@
-# O Custo Ambiental da Ineficiência Algorítmica
+# Complexidade e Eficiência Energética de Algoritmos de Alocação de Máquinas Virtuais em Data Centers
 
 ## Formato da entrega
 
-- **Nome do projeto:** O Custo Ambiental da Ineficiência Algorítmica: Relação entre Complexidade, Energia e Emissões de Carbono
+- **Nome do projeto:** Complexidade e eficiência energética de algoritmos de alocação de máquinas virtuais em data centers
+
 - **Integrantes do grupo:** Enrico Ricardo de Souza Prado, Gabriel Andrade de Faria, Gabriel Santos da Silva, Gabrielle dos Santos Carmo, Gustavo de Faria, Maria Beatriz Santos Carvalho
+
 - **Turma:** Ciência da Computação 6° Semestre / Computabilidade e Complexidade de Algoritmos
-- **Link do repositório:** https://github.com/ProjetoTeoriadosGrafos973/Trabalho_IC
+
+- **Link do repositório:** [https://github.com/ProjetoTeoriadosGrafos973/Trabalho_IC](https://github.com/ProjetoTeoriadosGrafos973/Trabalho_IC)
+
 - **Branch principal utilizada:** `main`
 
 ## Etapa (a) — Escolha do Tema
 
 Documento referente à escolha e delimitação do tema do projeto de pesquisa.
 
-**Tema:** O Custo Ambiental da Ineficiência Algorítmica: Relação entre Complexidade, Energia e Emissões de Carbono.
+**Tema:** Complexidade e eficiência energética de algoritmos de alocação de máquinas virtuais em data centers.
 
 ### Arquivo da etapa
 
-- [a_Escolha_do_TemaV2.md](a_Escolha_do_TemaV2.md)
+- [a_Escolha_do_Tema.md](a_Escolha_do_Tema.md)
 
 ## Etapa (b) — Levantamento Bibliográfico
 
@@ -26,18 +30,24 @@ Documento referente ao planejamento, execução das buscas, triagem e seleção 
 
 ### Arquivos da etapa
 
-- [b_Levantamento_Bibliografico_PreliminarV5.md](b_Levantamento_Bibliografico_PreliminarV5.md)
+- [b_Levantamento_Bibliografico_Preliminar.md](b_Levantamento_Bibliografico_Preliminar.md)
+
 - [referenciasV2.bib](referenciasV2.bib)
 
 ### Bases de dados utilizadas
 
 - SBC — Sociedade Brasileira de Computação
+
+- Academia.edu
+
 - ACM Digital Library
-- Academia
+
+- IEEE Xplore
 
 ### Gerenciador de referências
 
 - Zotero
+
 - Formato de exportação: BibTeX
 
 ## Etapa (c) — Objetivo Geral e Objetivos Específicos
@@ -46,20 +56,19 @@ Documento referente à definição do objetivo geral, assuntos da pesquisa, estr
 
 ### Arquivo da etapa
 
-- [c_objetivo_geral_e_especifico.md](c_objetivo_geral_e_especifico.md)
-
+- [c_objetivo_geral_e_especificos.md](c_objetivo_geral_e_especificos.md)
 
 ## Integrantes
 
 | Integrante | Participação |
 |---|---|
-| Enrico Ricardo de Souza Prado | Pesquisa bibliográfica, elaboração de string de busca e execução de busca na ACM |
-| Gabriel Andrade de Faria | Pesquisa e identificação do tema |
+| Enrico Ricardo de Souza Prado | Elaboração de string de busca, seleção da ACM Digital Library e execução da busca |
+| Gabriel Andrade de Faria | Elaboração de string de busca, seleção da IEEE Xplore e execução da busca |
 | Gabriel Santos da Silva | Definição dos critérios de inclusão e exclusão |
-| Gabrielle dos Santos Carmo | Triagem dos artigos |
-| Gustavo de Faria | Pesquisa, definição de palavras-chave e buscas bibliográficas |
-| Maria Beatriz Santos Carvalho | Definição da problemática, palavras-chave, critérios e triagem |
+| Gabrielle dos Santos Carmo | Triagem dos artigos por título e resumo |
+| Gustavo de Faria | Definição de palavras-chave, elaboração de string de busca, seleção da base e execução da busca |
+| Maria Beatriz Santos Carvalho | Definição da problemática, palavras-chave, critérios, busca e triagem dos artigos |
 
 ## Objetivo
 
-Investigar a relação entre a complexidade dos algoritmos de alocação de máquinas virtuais, a eficiência energética dos data centers e seus possíveis impactos ambientais, considerando o consumo de energia e as emissões de carbono.
+Analisar a relação entre a complexidade e a eficiência energética de algoritmos de alocação de máquinas virtuais em data centers, por meio de levantamento bibliográfico.
