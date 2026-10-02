@@ -9,7 +9,7 @@
 | Curso / Disciplina | Ciência da Computação / Computabilidade e Complexidade de Algoritmos |
 | Projeto de Pesquisa / IC | Para revisão bibliográfica|
 | Orientador(a) | Andrea Ono Sakai |
-| Data de entrega desta etapa | 19/09/2026 |
+| Data de entrega desta etapa | 20/09/2026 |
 | Integrantes do grupo | Enrico Ricardo de Souza Prado, Gabrielle dos Santos Carmo, Gabriel Santos da Silva, Maria Beatriz Santos Carvalho, Gustavo de Faria, Gabriel Andrade de Faria |
 
 ---
