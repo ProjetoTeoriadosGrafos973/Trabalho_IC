@@ -14,7 +14,7 @@
 |---|---|---|---:|
 | Abertura | `Contextualização do crescimento do consumo energético em data centers e a problemática do alto consumo em estado ocioso` | `Enrico Ricardo` | `3 min` |
 | Objetivos | `Apresentação do problema de pesquisa e do objetivo geral: analisar o equilíbrio entre a complexidade computacional e a eficiência energética na alocação de VMs` | `Gabrielle dos Santos` | `5 min` |
-| Metodologia | `Processo de revisão bibliográfica nas bases SBC, ACM Digital Library, IEEE Xplore e Academia.edu` | `Gabriel Santos` | `5 min` |
+| Metodologia | `Processo de revisão bibliográfica nas bases SBC, ACM Digital Library, IEEE Xplore e Academia.edu` | `Gabriel Santos, Gabriel Andrade` | `5 min` |
 | Resultados da revisão | `modelos de potência e consumo ocioso (Eixo 1); bin-packing, complexidade $O(n^2)$ e o trade-off entre heurísticas gulosas (BFD, VMP-ER) e meta-heurísticas (GA, ACO) (Eixo 2)` | `Maria Beatriz` | `7 min` |
 | Conclusão | `Resposta ao problema de pesquisa, implicações práticas e necessidade de testes em ambientes físicos` | `Gustavo de Faria` | `5 min` |
 
